@@ -10,6 +10,8 @@ namespace project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello wrold!");
+            Console.ReadLine();
         }
     }
 }
