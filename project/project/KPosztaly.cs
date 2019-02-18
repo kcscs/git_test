@@ -15,5 +15,8 @@ namespace project
         private int c;
         private int m;
         private int d;
+        private ulong x;
+        private ulong y;
+        private ulong z;
     }
 }
