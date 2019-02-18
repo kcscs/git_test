@@ -1,7 +1,7 @@
-project\project.sln
-project\project.v12.suo
-project\project\bin\*
-project\project\obj\*
-project\Properties
-project\App.config
-project\project.csproj
+project/project.sln
+project/project.v12.suo
+project/project/bin/*
+project/project/obj/*
+project/project/Properties/*
+project/App.config
+project/project.csproj
