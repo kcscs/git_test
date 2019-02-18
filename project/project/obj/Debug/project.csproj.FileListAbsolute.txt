@@ -5,3 +5,6 @@ C:\Users\szakkora1\Documents\Git_test\git_test\project\project\obj\Debug\project
 C:\Users\szakkora1\Documents\Git_test\git_test\project\project\obj\Debug\project.pdb
 C:\Users\szakkora1\Documents\Git_teszt\git_test\project\project\obj\Debug\project.exe
 C:\Users\szakkora1\Documents\Git_teszt\git_test\project\project\obj\Debug\project.pdb
+C:\Users\szakkora1\Documents\Git_test\git_test\project\project\bin\Debug\project.exe
+C:\Users\szakkora1\Documents\Git_test\git_test\project\project\bin\Debug\project.pdb
+C:\Users\szakkora1\Documents\Git_test\git_test\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
