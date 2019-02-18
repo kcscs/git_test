@@ -45,6 +45,7 @@
     <Compile Include="KPosztaly.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="zsa.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
