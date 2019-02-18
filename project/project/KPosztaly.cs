@@ -18,5 +18,6 @@ namespace project
         private ulong x;
         private ulong y;
         private ulong z;
+        private long privát;
     }
 }
