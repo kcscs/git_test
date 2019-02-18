@@ -19,5 +19,6 @@ namespace project
         int g = 7;
         int h = 8;
         int e = 9;
+        string g = "most már jó lesz szerintem";
     }
 }
