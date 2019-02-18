@@ -9,7 +9,7 @@ namespace project
     class fajl_kcscs
     {
         private int val;
-        public fajl_kcscs(int _VAL)
+        public fajl_kcscs(int _VAL) // konstruktor
         {
             val = _VAL;
         }
