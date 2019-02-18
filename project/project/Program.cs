@@ -11,6 +11,8 @@ namespace project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            int valami;
+            valami = 56;
             Console.ReadLine();
         }
     }
